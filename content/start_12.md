@@ -1,6 +1,7 @@
 # Article Twelve
+[Go home](/index.html)
 
 [rarible.com article](https://rarible.com/how-it-works/getting-started/how-do-i-create-my-first-nft)
 
-[Go back](/index.html)
+[Go home](/index.html)
 

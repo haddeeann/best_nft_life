@@ -1,4 +1,5 @@
 # CoinDesk Article Summary
+[Go home](/index.html)
 
 [Coindesk.com article](https://www.coindesk.com/learn/minting-your-first-nft-a-beginners-guide-to-creating-an-nft/)
 
@@ -49,7 +50,6 @@ Galleon
 Kukai Wallet
 Umami 
 AirGap Wallet
-[Go back](/index.html)
 
 Creator fees: 2.5%
 
@@ -59,3 +59,5 @@ Creator fees: 2.5%
 3. input your collection’s description
 4. determine your royalties (when your art is sold in a secondary marketplace)
 5. complete your listing.
+
+[Go home](/index.html)

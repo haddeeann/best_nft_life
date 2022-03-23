@@ -1,5 +1,6 @@
 # Article Two
+[Go home](/index.html)
 
 [Youtube video](https://www.youtube.com/watch?v=bBKUU2_0uh4)
 
-[Go back](/index.html)
+[Go home](/index.html)

@@ -1,6 +1,7 @@
 # Article Seventeen
+[Go home](/index.html)
 
 [udemy.com article](https://www.udemy.com/course/how-to-create-a-nft/)
 
-[Go back](/index.html)
+[Go home](/index.html)
 

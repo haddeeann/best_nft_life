@@ -1,6 +1,7 @@
 # Article Thirteen
+[Go home](/index.html)
 
 [petapixel.com article](https://petapixel.com/how-to-create-sell-nfts-for-free/)
 
-[Go back](/index.html)
+[Go home](/index.html)
 

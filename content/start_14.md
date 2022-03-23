@@ -1,6 +1,7 @@
 # Article Fourteen
+[Go home](/index.html)
 
 [entrepreneur.com article](https://www.entrepreneur.com/article/412130)
 
-[Go back](/index.html)
+[Go home](/index.html)
 
